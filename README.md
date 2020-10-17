@@ -1,1 +1,7 @@
 # CryptographyHacktoberFest
+ONLY QUALITY PRS WILL BE ACCEPTED.
+YOU ARE VERY LIKELY TO GET SPAM-LABELLED, IF YOU TRY ANYTHING FUNNY.
+
+Also-
+1) Add Cipher etc. codes
+2) Make a README.md, CONTRIBUTING.md, etc
